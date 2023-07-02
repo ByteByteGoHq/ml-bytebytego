@@ -45,6 +45,11 @@
 [41] Shadow deployment. https://christophergs.com/machine%20learning/2019/03/30/deploying-machine-learning-applications-in-shadow-mode/.  
 [42] A/B testing. https://en.wikipedia.org/wiki/A/B_testing.  
 [43] Canary release. https://blog.getambassador.io/cloud-native-patterns-canary-release-1cb8f82d371a.  
+[44] Interleaving experiment. https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55.
+[45] Multi-armed bandit. https://vwo.com/blog/multi-armed-bandit-algorithm/.
+[46] ML infrastructure. https://www.run.ai/guides/machine-learning-engineering/machine-learning-infrastructure.
+[47] Interpretability in ML. https://fullstackdeeplearning.com/spring2021/lecture-6/.
+[48] Chip Huyen. Designing Machine Learning Systems: An Iterative Process for Production-Ready Application. " O'Reilly Media, Inc.", 2022.
 
 ---
 
