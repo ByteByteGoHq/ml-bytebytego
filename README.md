@@ -49,7 +49,7 @@
 [45] Multi-armed bandit. https://vwo.com/blog/multi-armed-bandit-algorithm/.
 [46] ML infrastructure. https://www.run.ai/guides/machine-learning-engineering/machine-learning-infrastructure.
 [47] Interpretability in ML. https://fullstackdeeplearning.com/spring2021/lecture-6/.
-[48] Chip Huyen. Designing Machine Learning Systems: An Iterative Process for Production-Ready Application. " O'Reilly Media, Inc.", 2022.
+[48] Chip Huyen. Designing Machine Learning Systems: An Iterative Process for Production-Ready Application. "O'Reilly Media, Inc.", 2022.
 
 ---
 
