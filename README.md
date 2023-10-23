@@ -20,7 +20,7 @@
 [16] Mean squared error loss. https://en.wikipedia.org/wiki/Mean_squared_error.  
 [17] Mean absolute error loss. https://en.wikipedia.org/wiki/Mean_absolute_error.  
 [18] Huber loss. https://en.wikipedia.org/wiki/Huber_loss.  
-[19] L1 and l2 regularization. https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning.    
+[19] L1 and L2 regularization. https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning.    
 [20] Entropy regularization. https://paperswithcode.com/method/entropy-regularization.    
 [21] K-fold cross validation. https://en.wikipedia.org/wiki/Cross-validation_(statistics).  
 [22] Dropout paper. https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf.   
