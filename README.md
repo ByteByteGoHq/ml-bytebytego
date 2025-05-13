@@ -1,4 +1,4 @@
-# Reference Materials for System Design Interview
+# Reference Materials for ML System Design Interview
 
 ## Chapter 1: Introduction and Overview
 
